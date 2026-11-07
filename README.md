@@ -59,7 +59,7 @@ The application will use a client-server architecture.
 - [x] Define the project scope and requirements.
 - [x] Create the initial Blazor application.
 - [x] Initialize version control with Git.
-- [ ] Publish the repository to GitHub.
+- [x] Publish the repository to GitHub.
 - [x] Establish the initial project architecture.
 
 ### Phase 2 — Core Game
